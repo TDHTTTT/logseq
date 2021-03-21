@@ -1,0 +1,2 @@
+# logseq
+Logseq sync repo
